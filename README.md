@@ -1,2 +1,2 @@
 # shell_sort
-Java implementation of shell sort that reads unsorted integers from .txt file
+My Java implementation of shell sort that reads a .txt of unsorted numbers and returns them sorted.
